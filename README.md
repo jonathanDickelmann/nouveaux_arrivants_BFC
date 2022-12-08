@@ -2,7 +2,7 @@
 
 Ce tableau de bord à pour but de présenter le profil des nouveaux arrivants en Bourgogne-Franche-Comté en décrivant l'origine géographique de ces derniers, leur lieu d'installation ainsi que leur situation familiale et professionnelle.
 
-![aperçu](https://github.com/jonathanDickelmann/nouveaux_arrivants_BFC/blob/main/img/arrivants.PNG)
+![aperçu](https://github.com/jonathanDickelmann/nouveaux_arrivants_BFC/blob/main/img/capture.PNG)
 
 De nombreux filtres sont disponibles via le bouton en haut à gauche sur les lieux d'implantations notamment (des différents départements de la région, aux intercommunalités, zones d'emploi etc.)
 
